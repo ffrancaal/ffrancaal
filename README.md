@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Prazer. Sou Felipe Franca</h1>
-<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas na CESAR School. Atualmente trabalho com Automações e IA, e estou na jornada de aprender sobre programação, com foco em back-end. (Recife-PE)</h3>
+<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas na CESAR School. Atualmente presto serviços com Automações e IA, e estou na jornada de aprender sobre programação, com foco em back-end.</h3>
 
 - 🔭 Automation & AI Analyst na [Opens Tecnologia](https://www.opens.com.br/)
 - 🔭 Estudando ADS na **CESAR School**
